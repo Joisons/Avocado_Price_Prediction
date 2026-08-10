@@ -1,4 +1,4 @@
-# 🥑 Avocado Price Prediction
+# Avocado Price Prediction
 
 Predicting weekly average Hass avocado prices across US regions from sales volume, packaging mix, type, and seasonality.
 
@@ -76,10 +76,7 @@ jupyter
 - Reframe explicitly as a time-series forecasting problem using lagged prices.
 - Incorporate external data (Mexican harvest conditions/weather, since most US Hass avocados are imported from there).
 
-## Data Source & License
+## Data Source
 
 Data originally sourced from the Hass Avocado Board, distributed via Kaggle for educational use.
 
-## License
-
-MIT
